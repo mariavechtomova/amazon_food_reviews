@@ -33,7 +33,7 @@ Inspired by:
 From https://archive.org/download/amazon-reviews-1995-2013 the following is downloaded:
 - gourmet foods
 - pet supplies
-- home&kitchen
+- games&toys
 - beauty
 - health
 - baby
