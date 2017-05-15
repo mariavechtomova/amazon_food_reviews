@@ -1,3 +1,4 @@
 /data
 /.project
 /tensorflow_logs
+/ipynb/.ipynb_checkpoints
