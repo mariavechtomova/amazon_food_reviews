@@ -22,5 +22,3 @@ def create_sentence_vectors(strg, dic):
     line = strg.split()
     result = np.array([*map(lambda x: dic[x], line)])
     return result
-
-
