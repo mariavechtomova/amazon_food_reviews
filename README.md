@@ -17,6 +17,8 @@ Purpose of this project is to understand how CNN can be applied for different te
 - `5a. Category2 base model`. Implement a baseline model (Random Forest with TF-IDF features) to predict the second level category of the product in the review.
 - `5b. Category2 CNN model simple`. Implement a simple CNN to predict the second level category of the product in the review.
 - `5c. Category2 CNN model advanced`. Implement an advanced CNN to predict the second level category of the product in the review.
+- `5d. Category2 CNN model advanced with tweak`. Implement an advanced CNN to predict the second level category of the product in the review. Extra hidden layer added
+- `6. Make new predictions`. Create new predictions using the saved model
 
 Helper functions can be found in `helpers.py` file.
 
@@ -25,6 +27,7 @@ Helper functions can be found in `helpers.py` file.
 If you want to be able to run all the scripts without errors, your `amazon_food_reviews` folder should include the following folders:
 - data (not included in the git repository)
 - ipynb
+- images
 - models (not included in the git repository)
 - tensorflow_logs (not included in the git repository)
 
